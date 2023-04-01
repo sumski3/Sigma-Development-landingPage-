@@ -10,7 +10,8 @@ const Contact = () => {
     <div>
       <div className={styleContact.heading}>
         <h2>Contact&nbsp;</h2>
-        <h2>us</h2>
+        <h2>us</h2> 
+        <h3>meho</h3>
       </div>
       <div className={styleContact.messageAndMap}>
         <div className={styleContact.message}>
